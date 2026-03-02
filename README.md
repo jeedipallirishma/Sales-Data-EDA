@@ -31,7 +31,14 @@ The project generates:
 - Revenue Visualization (region_revenue.png)
 
 ---
+👩‍💻 Author
 
+Jeedipalli Rishma
+B.Tech – Data Science
+Hyderabad, Telangana
+Aspiring Data Scientist / AIML Engineer
+
+---
 ## 🚀 How to Run
 
 ```bash
