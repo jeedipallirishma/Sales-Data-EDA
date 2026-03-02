@@ -31,6 +31,12 @@ The project generates:
 - Revenue Visualization (region_revenue.png)
 
 ---
+
+## 📊 Visualization
+
+![Revenue by Region](region_revenue.png)
+
+---
 👩‍💻 Author
 
 Jeedipalli Rishma
