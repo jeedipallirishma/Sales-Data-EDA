@@ -1,0 +1,13 @@
+region,product,units_sold,price
+North,A,120,10
+South,B,200,15
+East,A,150,10
+West,C,300,20
+North,B,180,15
+South,C,250,20
+East,B,220,15
+West,A,130,10
+North,C,160,20
+South,A,140,10
+East,C,210,20
+West,B,190,15
